@@ -22,7 +22,7 @@ Currently, this repo has 3 major parts you may be interested in and I will give 
 
   - [Week 2 - PA 1 - Logistic Regression with a Neural Network mindset](https://github.com/medvedev1088/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic%20Regression%20with%20a%20Neural%20Network%20mindset.ipynb)
   - [Week 3 - PA 2 - Planar data classification with one hidden layer](https://github.com/medvedev1088/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Planar%20data%20classification%20with%20one%20hidden%20layer.ipynb)
-  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step¶](https://github.com/medvedev1088/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
+  - [Week 4 - PA 3 - Building your Deep Neural Network: Step by Step](https://github.com/medvedev1088/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb)
   - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/medvedev1088/deep-learning-coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
